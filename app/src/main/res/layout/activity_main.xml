@@ -9,7 +9,7 @@
         android:id="@+id/btnSpeak"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="FALE PARA ADICIONAR UM ITEM" />
+        android:text="CLIQUE E FALE PARA ADICIONAR UM ITEM" />
 
     <ListView
         android:paddingTop="10dp"
